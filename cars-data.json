@@ -1,202 +1,21 @@
 [
   {
-    "id": 1785289350579,
-    "brand": "Nissan",
-    "model": "天籁",
-    "year": 2022,
-    "regdate": "2022-12-28",
-    "mfgdate": "2022-10",
-    "price": 10870,
+    "id": 1785664817876,
+    "brand": "Chery",
+    "model": "Tiggo 7",
+    "year": 2024,
+    "regdate": null,
+    "mfgdate": null,
+    "price": 7000,
     "currency": "USD",
-    "mileage": 6,
-    "transmission": "at",
+    "mileage": 0,
+    "transmission": "dct",
     "fuel": "petrol",
-    "type": "sedan",
-    "color": "黑色",
-    "engine": "2.0",
-    "power": "115",
-    "drivetrain": "AWD",
-    "seats": 5,
-    "doors": 5,
-    "vin": "",
-    "location": "中国河南",
-    "status": "available",
-    "image": null,
-    "images": [
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785289051171-rr76w4.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785289051244-h6lq8p.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785289051311-27a3r1.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785289051468-pwd6fn.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785289051544-jlasj3.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785289051583-wpfjyr.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785289051101-myml9n.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785289051101-cjx9s1.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785289051385-dx2dkv.jpg"
-    ],
-    "description": "• Basic Info: 2022 Nissan Teana, 2.0L gasoline sedan, mileage 60,000 km, well maintained\n\n• Power System\n2.0L naturally aspirated engine matched with XTRONIC CVT transmission. Smooth power output, reliable structure, low failure rate, excellent fuel economy, ideal for daily commuting and long-distance travel.\n\n• Comfort & Space\nFamous Nissan Zero Gravity ergonomic seats, outstanding ride comfort. Spacious rear legroom, quiet cabin tuning. Large capacity trunk to meet family travel demands.\n\n• Main Configuration\nLED headlights, keyless entry & one-button start, reverse camera + parking sensors, automatic parking brake, multi-function steering wheel, central control touch screen, Apple CarPlay, multiple airbags.\n\n• Core Selling Points\nClassic Japanese family sedan, durable and easy to maintain, affordable spare parts. Balanced comfort and fuel consumption, stable driving experience, great value for second-hand import.",
-    "listedat": "2026-07-29",
-    "featured": false,
-    "created_at": "2026-07-29T01:42:32.718865+00:00",
-    "length": 4906,
-    "width": 1850,
-    "height": 1447,
-    "wheelbase": 2825,
-    "curbweight": 1915,
-    "fueltank": null,
-    "trunkcapacity": null
-  },
-  {
-    "id": 1785204122833,
-    "brand": "Volkswagen",
-    "model": "ID.3 聪明款 极智版GTX套件",
-    "year": 2025,
-    "regdate": "2025-07-04",
-    "mfgdate": "2025-04",
-    "price": 14720,
-    "currency": "USD",
-    "mileage": 9000,
-    "transmission": "at",
-    "fuel": "electric",
-    "type": "suv",
-    "color": "红色|黑色",
-    "engine": "",
-    "power": "125",
-    "drivetrain": "AWD",
-    "seats": 5,
-    "doors": 4,
-    "vin": "",
-    "location": "中国河南",
-    "status": "available",
-    "image": null,
-    "images": [
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785203729659-ax93gx.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785203729660-eo05vt.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785203729783-dhpfwc.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785203729784-523s15.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785203729784-k3wbao.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785203729785-5aqvc9.jpg"
-    ],
-    "description": "2026 Volkswagen ID.3 Smart Edition Ultimate Version with GTX Package, Automatic\nRegistered in July 2025, mileage: 9,000 km\nPure electric sedan, CLTC range 450km, battery capacity 53.60kWh\nExterior: Red, interior: Red & Black\n\nHighlights:\n• Rear-wheel drive, excellent handling performance\n• Mature Volkswagen pure electric chassis\n• Equipped with GTX sport package\n• Compact size, easy urban driving & parking\n• 450km range for daily use\n• Reliable joint venture quality\n",
-    "listedat": "2026-07-28",
-    "featured": false,
-    "created_at": "2026-07-28T02:02:04.649263+00:00",
-    "length": 4266,
-    "width": 1778,
-    "height": 1568,
-    "wheelbase": 2765,
-    "curbweight": 1845,
-    "fueltank": null,
-    "trunkcapacity": null
-  },
-  {
-    "id": 1785206990940,
-    "brand": "Volkswagen",
-    "model": "ID.3 聪明款 纯净智享版",
-    "year": 2024,
-    "regdate": "2024-09-28",
-    "mfgdate": "2024-07",
-    "price": 11480,
-    "currency": "USD",
-    "mileage": 38000,
-    "transmission": "at",
-    "fuel": "electric",
-    "type": "sedan",
-    "color": "白色｜灰色",
-    "engine": "",
-    "power": "125",
-    "drivetrain": "AWD",
-    "seats": 5,
-    "doors": 4,
-    "vin": "",
-    "location": "中国河南",
-    "status": "available",
-    "image": null,
-    "images": [
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667290-1st11g.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667294-p4vvxk.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667294-y1gxkk.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667295-khd26u.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667295-z65crp.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667296-8bc3ts.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667297-8q90i1.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667375-65ashy.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667376-o6emrs.jpg"
-    ],
-    "description": "2025 Volkswagen ID.3 Smart Edition Pure Enjoy Version, Automatic\nRegistered in September 2024, mileage: 39,000 km\nPure electric sedan, CLTC range 450km, battery capacity 52.80kWh\nExterior: Beige, interior: Grey & Black\n\nHighlights:\n• Rear-wheel drive layout, agile handling\n• Volkswagen dedicated EV platform with stable chassis\n• Compact body, easy city driving and parking\n• 450km range, suitable for daily commuting\n• Joint venture brand, reliable quality",
-    "listedat": "2026-07-28",
-    "featured": false,
-    "created_at": "2026-07-28T02:49:52.822386+00:00",
-    "length": 4261,
-    "width": 1778,
-    "height": 1568,
-    "wheelbase": 2765,
-    "curbweight": 1760,
-    "fueltank": null,
-    "trunkcapacity": null
-  },
-  {
-    "id": 1785207388021,
-    "brand": "Volkswagen",
-    "model": "ID.4 CROZZ PRO版",
-    "year": 2024,
-    "regdate": "2024-01-28",
-    "mfgdate": "2024-01",
-    "price": 17670,
-    "currency": "USD",
-    "mileage": 30000,
-    "transmission": "at",
-    "fuel": "electric",
-    "type": "suv",
-    "color": "灰色｜灰色",
-    "engine": "",
-    "power": "210kW",
-    "drivetrain": "RWD",
-    "seats": 5,
-    "doors": 5,
-    "vin": "",
-    "location": "中国河南",
-    "status": "available",
-    "image": null,
-    "images": [
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181618-eut8rx.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181825-mpnh33.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181826-3dviic.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181827-z19kb9.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181827-o79km7.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181827-9udsa4.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181828-7lmica.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181829-wnfdc9.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181828-k72aim.jpg"
-    ],
-    "description": "2024 Volkswagen ID.4 CROZZ PRO, Automatic\nRegistered in January 2024, mileage: 31,000 km\nPure electric SUV, CLTC range 600km, battery capacity 84.80kWh\nExterior: Grey, interior: Grey & Black\n\nHighlights:\n• Spacious family-size SUV\n• 600km long driving range, suitable for long-distance travel\n• Volkswagen pure electric platform, stable chassis performance\n• Joint venture brand with reliable quality\n• Large battery capacity, excellent endurance",
-    "listedat": "2026-07-28",
-    "featured": false,
-    "created_at": "2026-07-28T02:56:29.675996+00:00",
-    "length": 4584,
-    "width": 1852,
-    "height": 1632,
-    "wheelbase": 2765,
-    "curbweight": 2116,
-    "fueltank": null,
-    "trunkcapacity": 543
-  },
-  {
-    "id": 1785207933415,
-    "brand": "Volkswagen",
-    "model": "ID.4",
-    "year": 2025,
-    "regdate": "2025-02-28",
-    "mfgdate": "2025-01",
-    "price": 15100,
-    "currency": "USD",
-    "mileage": 9000,
-    "transmission": "at",
-    "fuel": "electric",
     "type": "suv",
     "color": "",
-    "engine": "",
-    "power": "210kW",
-    "drivetrain": "RWD",
+    "engine": "1.6L I4 Turbo",
+    "power": "145kW",
+    "drivetrain": "FWD",
     "seats": 5,
     "doors": 5,
     "vin": "",
@@ -204,39 +23,43 @@
     "status": "available",
     "image": null,
     "images": [
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207820969-xaausk.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207820970-vjphe1.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207820970-kjv62i.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207820971-eo16no.jpg"
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785664786875-l64o4q.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785664786941-qxjr7y.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785664786942-md5nsu.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785664786942-xr0k0f.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785664786943-ppvuc7.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785664786975-87qalm.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785664786975-ttwrud.jpg"
     ],
-    "description": "2025 Volkswagen ID.4 CROZZ Pure Version, Automatic\nRegistered in February 2025, mileage: 9,000 km\nPure electric SUV, CLTC range 442km, battery capacity 55.70kWh\nInterior: Black\n\nHighlights:\n• Low mileage nearly-new vehicle\n• Roomy family SUV layout\n• Volkswagen EV platform with stable driving performance\n• 442km range for daily commuting\n• Trusted joint venture brand",
-    "listedat": "2026-07-28",
+    "description": "",
+    "listedat": "2026-08-02",
     "featured": false,
-    "created_at": "2026-07-28T03:05:36.964399+00:00",
-    "length": 4584,
-    "width": 1852,
-    "height": 1632,
-    "wheelbase": 2765,
-    "curbweight": 2116,
-    "fueltank": null,
-    "trunkcapacity": 543
+    "created_at": "2026-08-02T10:00:18.583451+00:00",
+    "length": 4530,
+    "width": 1862,
+    "height": 1696,
+    "wheelbase": 2670,
+    "curbweight": 1520,
+    "fueltank": 57,
+    "trunkcapacity": 475,
+    "pricemax": null
   },
   {
-    "id": 1785209001884,
-    "brand": "BYD",
-    "model": "唐DM-i  112KM尊荣型",
-    "year": 2022,
-    "regdate": "2022-04-28",
-    "mfgdate": "2022-02",
-    "price": 14430,
+    "id": 1785301049806,
+    "brand": "Volkswagen",
+    "model": "ID.6",
+    "year": 2021,
+    "regdate": "2021-12-29",
+    "mfgdate": "2021-10",
+    "price": 16000,
     "currency": "USD",
-    "mileage": 22000,
-    "transmission": "cvt",
-    "fuel": "plugin_hybrid",
+    "mileage": 61000,
+    "transmission": "at",
+    "fuel": "electric",
     "type": "suv",
-    "color": "灰色｜棕色",
-    "engine": "1.5L Turbo Hybrid",
-    "power": "360kW",
+    "color": "深灰色｜灰色",
+    "engine": "",
+    "power": "222kW",
     "drivetrain": "AWD",
     "seats": 7,
     "doors": 5,
@@ -245,27 +68,72 @@
     "status": "available",
     "image": null,
     "images": [
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831219-0uqgkh.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831014-gnqz0p.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831219-6xtq5c.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831030-z28xhq.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831030-ba93nj.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831031-zbd825.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831218-r3q5wc.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831218-iyi0od.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831220-klz4pf.jpg"
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785300932729-1ow39s.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785300932733-km0jhc.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785300932791-nua0nf.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785300932792-6fr5no.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785300932793-f75pj6.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785300932793-pzacx0.jpg"
     ],
-    "description": "2022 BYD Tang DM-i 112KM Premium Edition\nMileage: 22,000 km\nOne minor scratch repaint.\n\nHighlights:\n• Plug-in hybrid, low fuel consumption\n• Large 7-seater family SUV\n• Stable and reliable powertrain\n• Good cost performance",
-    "listedat": "2026-07-28",
+    "description": "1. 2021 Volkswagen ID.6 CROZZ Long Range PRO Version\n\n2. Mileage: 61,000 km, first registered in December 2021, dark grey exterior, registered in \n\n3. Pure electric vehicle equipped with ternary lithium battery, CLTC range of 565km, rear-wheel drive layout\n\n4. Complete airbag configuration: front driver & passenger airbags, front and rear side airbags plus curtain airbags\n\n5. Equipped with tire pressure monitoring system and run-flat tire emergency driving function\n\n6. Comes with ISOFIX child seat interface, keyless entry and keyless start system",
+    "listedat": "2026-07-29",
     "featured": false,
-    "created_at": "2026-07-28T03:23:23.653578+00:00",
-    "length": 4870,
-    "width": 1950,
-    "height": 1725,
-    "wheelbase": 2820,
-    "curbweight": 2220,
-    "fueltank": 53,
-    "trunkcapacity": 235
+    "created_at": "2026-07-29T04:57:31.47119+00:00",
+    "length": 4876,
+    "width": 1848,
+    "height": 1680,
+    "wheelbase": 2965,
+    "curbweight": 2385,
+    "fueltank": null,
+    "trunkcapacity": 271,
+    "pricemax": null
+  },
+  {
+    "id": 1785301688253,
+    "brand": "Hyundai",
+    "model": "iX35 尊贵版LUX",
+    "year": 2024,
+    "regdate": "2024-08-29",
+    "mfgdate": "2024-05",
+    "price": 12000,
+    "currency": "USD",
+    "mileage": 29000,
+    "transmission": "at",
+    "fuel": "petrol",
+    "type": "suv",
+    "color": "极地冰蓝｜黑色",
+    "engine": "2.0",
+    "power": "118",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785301161850-4gqo9r.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785301161862-h827jg.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785301161863-fezlnk.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785301161863-ww8i2h.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785301161864-nh8wmb.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785301161918-fexw9w.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785301161919-9s571l.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785301161920-ekzzns.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785301161920-f9qc40.jpg"
+    ],
+    "description": "1. 2023 Beijing Hyundai ix35 Mufeng 2.0L LUX Premium Edition\n\n2. Mileage: 29,000 km, first registered in August 2024, blue body, registered in Zhengzhou\n\n3. National VI emission standard, fitted with 2.0L naturally aspirated engine and automatic transmission\n\n4. Comprehensive airbag configuration including front main & co-pilot airbags, front and rear side airbags and curtain airbags\n\n5. Equipped with tire pressure monitoring system and ABS anti-lock braking system for driving safety\n\n6. Supported with ISOFIX child seat interface, keyless entry and keyless start for convenient daily use",
+    "listedat": "2026-07-29",
+    "featured": false,
+    "created_at": "2026-07-29T05:08:09.434044+00:00",
+    "length": 4475,
+    "width": 1850,
+    "height": 1685,
+    "wheelbase": 2680,
+    "curbweight": 1464,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1785209659804,
@@ -311,7 +179,99 @@
     "wheelbase": 3220,
     "curbweight": 2000,
     "fueltank": 80,
-    "trunkcapacity": 0
+    "trunkcapacity": 0,
+    "pricemax": null
+  },
+  {
+    "id": 1785204122833,
+    "brand": "Volkswagen",
+    "model": "ID.3 聪明款 极智版GTX套件",
+    "year": 2025,
+    "regdate": "2025-07-04",
+    "mfgdate": "2025-04",
+    "price": 14720,
+    "currency": "USD",
+    "mileage": 9000,
+    "transmission": "at",
+    "fuel": "electric",
+    "type": "suv",
+    "color": "红色|黑色",
+    "engine": "",
+    "power": "125",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785203729659-ax93gx.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785203729660-eo05vt.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785203729783-dhpfwc.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785203729784-523s15.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785203729784-k3wbao.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785203729785-5aqvc9.jpg"
+    ],
+    "description": "2026 Volkswagen ID.3 Smart Edition Ultimate Version with GTX Package, Automatic\nRegistered in July 2025, mileage: 9,000 km\nPure electric sedan, CLTC range 450km, battery capacity 53.60kWh\nExterior: Red, interior: Red & Black\n\nHighlights:\n• Rear-wheel drive, excellent handling performance\n• Mature Volkswagen pure electric chassis\n• Equipped with GTX sport package\n• Compact size, easy urban driving & parking\n• 450km range for daily use\n• Reliable joint venture quality\n",
+    "listedat": "2026-07-28",
+    "featured": false,
+    "created_at": "2026-07-28T02:02:04.649263+00:00",
+    "length": 4266,
+    "width": 1778,
+    "height": 1568,
+    "wheelbase": 2765,
+    "curbweight": 1845,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null
+  },
+  {
+    "id": 1785206990940,
+    "brand": "Volkswagen",
+    "model": "ID.3 聪明款 纯净智享版",
+    "year": 2024,
+    "regdate": "2024-09-28",
+    "mfgdate": "2024-07",
+    "price": 11480,
+    "currency": "USD",
+    "mileage": 38000,
+    "transmission": "at",
+    "fuel": "electric",
+    "type": "sedan",
+    "color": "白色｜灰色",
+    "engine": "",
+    "power": "125",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667290-1st11g.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667294-p4vvxk.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667294-y1gxkk.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667295-khd26u.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667295-z65crp.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667296-8bc3ts.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667297-8q90i1.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667375-65ashy.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785206667376-o6emrs.jpg"
+    ],
+    "description": "2025 Volkswagen ID.3 Smart Edition Pure Enjoy Version, Automatic\nRegistered in September 2024, mileage: 39,000 km\nPure electric sedan, CLTC range 450km, battery capacity 52.80kWh\nExterior: Beige, interior: Grey & Black\n\nHighlights:\n• Rear-wheel drive layout, agile handling\n• Volkswagen dedicated EV platform with stable chassis\n• Compact body, easy city driving and parking\n• 450km range, suitable for daily commuting\n• Joint venture brand, reliable quality",
+    "listedat": "2026-07-28",
+    "featured": false,
+    "created_at": "2026-07-28T02:49:52.822386+00:00",
+    "length": 4261,
+    "width": 1778,
+    "height": 1568,
+    "wheelbase": 2765,
+    "curbweight": 1760,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1785210222235,
@@ -357,7 +317,190 @@
     "wheelbase": 3050,
     "curbweight": 2610,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
+  },
+  {
+    "id": 1785207388021,
+    "brand": "Volkswagen",
+    "model": "ID.4 CROZZ PRO版",
+    "year": 2024,
+    "regdate": "2024-01-28",
+    "mfgdate": "2024-01",
+    "price": 17670,
+    "currency": "USD",
+    "mileage": 30000,
+    "transmission": "at",
+    "fuel": "electric",
+    "type": "suv",
+    "color": "灰色｜灰色",
+    "engine": "",
+    "power": "210kW",
+    "drivetrain": "RWD",
+    "seats": 5,
+    "doors": 5,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181618-eut8rx.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181825-mpnh33.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181826-3dviic.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181827-z19kb9.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181827-o79km7.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181827-9udsa4.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181828-7lmica.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181829-wnfdc9.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207181828-k72aim.jpg"
+    ],
+    "description": "2024 Volkswagen ID.4 CROZZ PRO, Automatic\nRegistered in January 2024, mileage: 31,000 km\nPure electric SUV, CLTC range 600km, battery capacity 84.80kWh\nExterior: Grey, interior: Grey & Black\n\nHighlights:\n• Spacious family-size SUV\n• 600km long driving range, suitable for long-distance travel\n• Volkswagen pure electric platform, stable chassis performance\n• Joint venture brand with reliable quality\n• Large battery capacity, excellent endurance",
+    "listedat": "2026-07-28",
+    "featured": false,
+    "created_at": "2026-07-28T02:56:29.675996+00:00",
+    "length": 4584,
+    "width": 1852,
+    "height": 1632,
+    "wheelbase": 2765,
+    "curbweight": 2116,
+    "fueltank": null,
+    "trunkcapacity": 543,
+    "pricemax": null
+  },
+  {
+    "id": 1785207933415,
+    "brand": "Volkswagen",
+    "model": "ID.4",
+    "year": 2025,
+    "regdate": "2025-02-28",
+    "mfgdate": "2025-01",
+    "price": 15100,
+    "currency": "USD",
+    "mileage": 9000,
+    "transmission": "at",
+    "fuel": "electric",
+    "type": "suv",
+    "color": "",
+    "engine": "",
+    "power": "210kW",
+    "drivetrain": "RWD",
+    "seats": 5,
+    "doors": 5,
+    "vin": "",
+    "location": "天津港",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207820969-xaausk.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207820970-vjphe1.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207820970-kjv62i.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207820971-eo16no.jpg"
+    ],
+    "description": "2025 Volkswagen ID.4 CROZZ Pure Version, Automatic\nRegistered in February 2025, mileage: 9,000 km\nPure electric SUV, CLTC range 442km, battery capacity 55.70kWh\nInterior: Black\n\nHighlights:\n• Low mileage nearly-new vehicle\n• Roomy family SUV layout\n• Volkswagen EV platform with stable driving performance\n• 442km range for daily commuting\n• Trusted joint venture brand",
+    "listedat": "2026-07-28",
+    "featured": false,
+    "created_at": "2026-07-28T03:05:36.964399+00:00",
+    "length": 4584,
+    "width": 1852,
+    "height": 1632,
+    "wheelbase": 2765,
+    "curbweight": 2116,
+    "fueltank": null,
+    "trunkcapacity": 543,
+    "pricemax": null
+  },
+  {
+    "id": 1785209001884,
+    "brand": "BYD",
+    "model": "唐DM-i  112KM尊荣型",
+    "year": 2022,
+    "regdate": "2022-04-28",
+    "mfgdate": "2022-02",
+    "price": 14430,
+    "currency": "USD",
+    "mileage": 22000,
+    "transmission": "cvt",
+    "fuel": "plugin_hybrid",
+    "type": "suv",
+    "color": "灰色｜棕色",
+    "engine": "1.5L Turbo Hybrid",
+    "power": "360kW",
+    "drivetrain": "AWD",
+    "seats": 7,
+    "doors": 5,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831219-0uqgkh.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831014-gnqz0p.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831219-6xtq5c.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831030-z28xhq.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831030-ba93nj.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831031-zbd825.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831218-r3q5wc.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831218-iyi0od.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785208831220-klz4pf.jpg"
+    ],
+    "description": "2022 BYD Tang DM-i 112KM Premium Edition\nMileage: 22,000 km\nOne minor scratch repaint.\n\nHighlights:\n• Plug-in hybrid, low fuel consumption\n• Large 7-seater family SUV\n• Stable and reliable powertrain\n• Good cost performance",
+    "listedat": "2026-07-28",
+    "featured": false,
+    "created_at": "2026-07-28T03:23:23.653578+00:00",
+    "length": 4870,
+    "width": 1950,
+    "height": 1725,
+    "wheelbase": 2820,
+    "curbweight": 2220,
+    "fueltank": 53,
+    "trunkcapacity": 235,
+    "pricemax": null
+  },
+  {
+    "id": 1785139256479,
+    "brand": "Lynk & Co",
+    "model": "08",
+    "year": 2025,
+    "regdate": "2025-04-03",
+    "mfgdate": "2024-08",
+    "price": 18230,
+    "currency": "USD",
+    "mileage": 28000,
+    "transmission": "at",
+    "fuel": "plugin_hybrid",
+    "type": "suv",
+    "color": "灰色",
+    "engine": "1.5",
+    "power": "280",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 5,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041124-jyw5fs.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041125-roffxf.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041125-5us44q.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041125-ciq8gm.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041196-awn9d9.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041196-3yu0qe.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041196-xrk4iz.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041196-h8ke48.jpg"
+    ],
+    "description": "• Basic Info: 2025 Lynk & Co 08, 1.5T plug-in hybrid SUV, mileage 28,000 km, well-maintained condition.\n\n• Power System\n1.5T turbo engine matched with high-efficiency PHEV system. Supports pure electric driving for daily commuting. Long combined cruising range, no range anxiety on long trips. Available fast charging function, low daily energy consumption. Smooth and quiet driving experience.\n\n• Interior & Smart Configuration\nPremium 5-seater interior with spacious space. Large curved intelligent screen, intelligent voice control system. High-quality audio, comfortable seats with heating and ventilation functions. Minimalist stylish interior design.\n\n• Chassis & Safety\nPrecision tuned chassis, stable handling. Equipped with L2+ level intelligent driving assistance system. Complete active and passive safety configurations, high-strength vehicle body.\n\n• Selling Points\nFashionable medium-size PHEV SUV with abundant configurations. Balanced performance and fuel efficiency. Reliable quality. Full set of documents, ready for overseas export.\n",
+    "listedat": "2026-07-27",
+    "featured": false,
+    "created_at": "2026-07-27T08:00:58.456791+00:00",
+    "length": 4820,
+    "width": 1915,
+    "height": 1685,
+    "wheelbase": 2848,
+    "curbweight": 2050,
+    "fueltank": 60,
+    "trunkcapacity": 517,
+    "pricemax": null
   },
   {
     "id": 1785116744997,
@@ -400,7 +543,8 @@
     "wheelbase": 2690,
     "curbweight": 1540,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1785138352646,
@@ -445,7 +589,8 @@
     "wheelbase": 2800,
     "curbweight": 2194,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1785138736593,
@@ -491,52 +636,8 @@
     "wheelbase": 2700,
     "curbweight": 1588,
     "fueltank": null,
-    "trunkcapacity": null
-  },
-  {
-    "id": 1785139256479,
-    "brand": "Lynk & Co",
-    "model": "08",
-    "year": 2025,
-    "regdate": "2025-04-03",
-    "mfgdate": "2024-08",
-    "price": 18230,
-    "currency": "USD",
-    "mileage": 28000,
-    "transmission": "at",
-    "fuel": "plugin_hybrid",
-    "type": "suv",
-    "color": "灰色",
-    "engine": "1.5",
-    "power": "280",
-    "drivetrain": "AWD",
-    "seats": 5,
-    "doors": 5,
-    "vin": "",
-    "location": "中国河南",
-    "status": "available",
-    "image": null,
-    "images": [
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041124-jyw5fs.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041125-roffxf.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041125-5us44q.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041125-ciq8gm.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041196-awn9d9.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041196-3yu0qe.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041196-xrk4iz.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785139041196-h8ke48.jpg"
-    ],
-    "description": "• Basic Info: 2025 Lynk & Co 08, 1.5T plug-in hybrid SUV, mileage 28,000 km, well-maintained condition.\n\n• Power System\n1.5T turbo engine matched with high-efficiency PHEV system. Supports pure electric driving for daily commuting. Long combined cruising range, no range anxiety on long trips. Available fast charging function, low daily energy consumption. Smooth and quiet driving experience.\n\n• Interior & Smart Configuration\nPremium 5-seater interior with spacious space. Large curved intelligent screen, intelligent voice control system. High-quality audio, comfortable seats with heating and ventilation functions. Minimalist stylish interior design.\n\n• Chassis & Safety\nPrecision tuned chassis, stable handling. Equipped with L2+ level intelligent driving assistance system. Complete active and passive safety configurations, high-strength vehicle body.\n\n• Selling Points\nFashionable medium-size PHEV SUV with abundant configurations. Balanced performance and fuel efficiency. Reliable quality. Full set of documents, ready for overseas export.\n",
-    "listedat": "2026-07-27",
-    "featured": false,
-    "created_at": "2026-07-27T08:00:58.456791+00:00",
-    "length": 4820,
-    "width": 1915,
-    "height": 1685,
-    "wheelbase": 2848,
-    "curbweight": 2050,
-    "fueltank": 60,
-    "trunkcapacity": 517
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1785037572578,
@@ -572,7 +673,8 @@
     "wheelbase": 3050,
     "curbweight": 2610,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1785047751334,
@@ -618,7 +720,8 @@
     "wheelbase": 2734,
     "curbweight": 1750,
     "fueltank": null,
-    "trunkcapacity": 466
+    "trunkcapacity": 466,
+    "pricemax": null
   },
   {
     "id": 1784869338159,
@@ -664,7 +767,8 @@
     "wheelbase": 2735,
     "curbweight": 1705,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784868181758,
@@ -710,7 +814,8 @@
     "wheelbase": 3200,
     "curbweight": 2642,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784770038922,
@@ -756,7 +861,8 @@
     "wheelbase": 2470,
     "curbweight": 1110,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784773439546,
@@ -799,7 +905,8 @@
     "wheelbase": 2710,
     "curbweight": 1575,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784770670262,
@@ -845,7 +952,8 @@
     "wheelbase": 2640,
     "curbweight": 1720,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784605821101,
@@ -891,7 +999,8 @@
     "wheelbase": 2550,
     "curbweight": 1120,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784609801409,
@@ -933,7 +1042,8 @@
     "wheelbase": 2770,
     "curbweight": 1953,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784521198108,
@@ -979,7 +1089,8 @@
     "wheelbase": 3110,
     "curbweight": 2665,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784524902949,
@@ -1025,7 +1136,8 @@
     "wheelbase": 2947,
     "curbweight": 1640,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784441670914,
@@ -1071,7 +1183,8 @@
     "wheelbase": 3125,
     "curbweight": 3130,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784460022747,
@@ -1117,7 +1230,8 @@
     "wheelbase": 3200,
     "curbweight": 2640,
     "fueltank": null,
-    "trunkcapacity": 427
+    "trunkcapacity": 427,
+    "pricemax": null
   },
   {
     "id": 1784421943667,
@@ -1163,7 +1277,8 @@
     "wheelbase": 2735,
     "curbweight": 1960,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784437771523,
@@ -1209,7 +1324,8 @@
     "wheelbase": 3205,
     "curbweight": 2830,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784467490265,
@@ -1251,7 +1367,8 @@
     "wheelbase": 3160,
     "curbweight": 2750,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784419672987,
@@ -1295,7 +1412,8 @@
     "wheelbase": 2910,
     "curbweight": 2335,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784375477749,
@@ -1341,7 +1459,8 @@
     "wheelbase": 3105,
     "curbweight": 2570,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784385078098,
@@ -1387,7 +1506,8 @@
     "wheelbase": 3160,
     "curbweight": 2810,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784172830374,
@@ -1442,7 +1562,8 @@
     "wheelbase": 2930,
     "curbweight": 2170,
     "fueltank": 0,
-    "trunkcapacity": 375
+    "trunkcapacity": 375,
+    "pricemax": null
   },
   {
     "id": 1784165483397,
@@ -1484,7 +1605,8 @@
     "wheelbase": 2925,
     "curbweight": 2280,
     "fueltank": 0,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784166010276,
@@ -1530,7 +1652,8 @@
     "wheelbase": 2920,
     "curbweight": 2080,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784166987327,
@@ -1573,7 +1696,8 @@
     "wheelbase": 2845,
     "curbweight": 1675,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784164873604,
@@ -1619,7 +1743,8 @@
     "wheelbase": 2875,
     "curbweight": 2280,
     "fueltank": 0,
-    "trunkcapacity": 5
+    "trunkcapacity": 5,
+    "pricemax": null
   },
   {
     "id": 1784172457884,
@@ -1671,7 +1796,8 @@
     "wheelbase": 2735,
     "curbweight": 1705,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784174364841,
@@ -1716,7 +1842,8 @@
     "wheelbase": 2765,
     "curbweight": 1840,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784173806228,
@@ -1762,7 +1889,8 @@
     "wheelbase": 2750,
     "curbweight": 1860,
     "fueltank": 0,
-    "trunkcapacity": 362
+    "trunkcapacity": 362,
+    "pricemax": null
   },
   {
     "id": 1784079266674,
@@ -1808,7 +1936,8 @@
     "wheelbase": 2640,
     "curbweight": 1430,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784081082484,
@@ -1854,7 +1983,8 @@
     "wheelbase": 2837,
     "curbweight": 1840,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784083083105,
@@ -1900,7 +2030,8 @@
     "wheelbase": 2640,
     "curbweight": 1430,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784097239367,
@@ -1946,7 +2077,8 @@
     "wheelbase": 2870,
     "curbweight": 1755,
     "fueltank": 64,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784098540103,
@@ -1992,7 +2124,8 @@
     "wheelbase": 2915,
     "curbweight": 2316,
     "fueltank": 0,
-    "trunkcapacity": 579
+    "trunkcapacity": 579,
+    "pricemax": null
   },
   {
     "id": 1784080684306,
@@ -2038,7 +2171,8 @@
     "wheelbase": 2755,
     "curbweight": 1551,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784079740946,
@@ -2084,7 +2218,8 @@
     "wheelbase": 2680,
     "curbweight": 1480,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784101312637,
@@ -2130,7 +2265,8 @@
     "wheelbase": 2915,
     "curbweight": 2292,
     "fueltank": 0,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784015003200,
@@ -2176,7 +2312,8 @@
     "wheelbase": 2790,
     "curbweight": 2065,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784016018400,
@@ -2222,7 +2359,8 @@
     "wheelbase": 2610,
     "curbweight": 1295,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784038650593,
@@ -2267,7 +2405,8 @@
     "wheelbase": 2800,
     "curbweight": 2890,
     "fueltank": 83,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784008177557,
@@ -2313,7 +2452,8 @@
     "wheelbase": 2640,
     "curbweight": 1425,
     "fueltank": 47,
-    "trunkcapacity": 438
+    "trunkcapacity": 438,
+    "pricemax": null
   },
   {
     "id": 1784039057425,
@@ -2359,7 +2499,8 @@
     "wheelbase": 2745,
     "curbweight": 2170,
     "fueltank": null,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   },
   {
     "id": 1784040276412,
@@ -2405,6 +2546,7 @@
     "wheelbase": 2738,
     "curbweight": 1830,
     "fueltank": 60,
-    "trunkcapacity": null
+    "trunkcapacity": null,
+    "pricemax": null
   }
 ]
