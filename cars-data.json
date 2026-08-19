@@ -1,5 +1,478 @@
 [
   {
+    "id": 1786883796656,
+    "brand": "Volkswagen",
+    "model": "帕萨特",
+    "year": 2022,
+    "regdate": "2022-12-13",
+    "mfgdate": "2021-08",
+    "price": 15400,
+    "currency": "USD",
+    "mileage": 23000,
+    "transmission": "at",
+    "fuel": "petrol",
+    "type": "sedan",
+    "color": "黑色",
+    "engine": "2.0",
+    "power": "137",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786883479309-1u8zub.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786883479310-r17pn2.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786883479345-oj0t88.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786883479346-8a0b8j.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786883479346-luv8i7.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786883479346-ih9dhf.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786883479346-b6fds8.jpg"
+    ],
+    "description": "• 2022 Volkswagen Passat, 2.0 petrol, 23,000 km mileage\n\n• Mid‑size sedan for family and business use. 2.0 engine with automatic transmission, smooth power and stable highway performance\n\n• Elegant and classic exterior, spacious cabin with comfortable seats and central touch screen\n\n• Low mileage in great condition, reliable vehicle, perfect for daily use and business trips with excellent value",
+    "listedat": "2026-08-16",
+    "featured": false,
+    "created_at": "2026-08-16T12:36:38.728848+00:00",
+    "length": 4948,
+    "width": 1836,
+    "height": 1469,
+    "wheelbase": 2871,
+    "curbweight": 1600,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null,
+    "electricrange": null
+  },
+  {
+    "id": 1786884693875,
+    "brand": "Honda",
+    "model": "英仕派",
+    "year": 2025,
+    "regdate": "2025-12-16",
+    "mfgdate": "2023-07",
+    "price": 21770,
+    "currency": "USD",
+    "mileage": 2300,
+    "transmission": "at",
+    "fuel": "plugin_hybrid",
+    "type": "sedan",
+    "color": "白色",
+    "engine": "2.0",
+    "power": "",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884277839-19rr07.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884277839-760bjd.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884277840-nu95n1.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884277872-gzvbeo.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884277872-c8ggxo.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884277872-yffnrb.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884277872-5924fn.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884277873-rwqnal.jpg"
+    ],
+    "description": "• 2025 Honda Inspire, 2.0 plug‑in hybrid, 2,300 km mileage\n\n• Mid‑size PHEV sedan with Honda e:PHEV hybrid system. Low fuel consumption for daily commuting and no range anxiety on long trips, smooth and quiet power output￼￼￼\n\n• Stylish exterior and spacious interior, equipped with full digital instrument cluster, central touch screen and Honda active safety assist system\n\n• Ultra‑low mileage, nearly new condition. Great choice for family and business use with excellent fuel economy and strong value.",
+    "listedat": "2026-08-16",
+    "featured": false,
+    "created_at": "2026-08-16T12:51:36.856856+00:00",
+    "length": 4979,
+    "width": 1962,
+    "height": 1449,
+    "wheelbase": 2830,
+    "curbweight": 1781,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null,
+    "electricrange": null
+  },
+  {
+    "id": 1786857271650,
+    "brand": "东风DongFeng",
+    "model": "L7 205KM超长续航尊享型",
+    "year": 2025,
+    "regdate": "2025-06-16",
+    "mfgdate": "2025-04",
+    "price": 11500,
+    "currency": "USD",
+    "mileage": 20000,
+    "transmission": "at",
+    "fuel": "plugin_hybrid",
+    "type": "suv",
+    "color": "灰色｜黑色",
+    "engine": "1.5T",
+    "power": "100",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786856859007-e5w3yd.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786856858876-ofrdgv.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786856858877-8tabc1.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786856859008-427f8o.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786856859088-vl40ht.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786856859088-r0nkob.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786856858878-2k692y.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786856858878-pyfgx1.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786856859007-eotjpt.jpg"
+    ],
+    "description": "1. Top‑end Premium trim, fully equipped with factory features\n\n2. Very new vehicle, registered in June 2025\n\n3. Classic grey exterior and black interior\n\n4. Low‑fuel‑consumption plug‑in hybrid SUV with 205 km pure‑electric range\n\n5. Smooth automatic‑gear driving experience",
+    "listedat": "2026-08-16",
+    "featured": false,
+    "created_at": "2026-08-16T05:14:33.609418+00:00",
+    "length": 4670,
+    "width": 1900,
+    "height": 1625,
+    "wheelbase": 2775,
+    "curbweight": 1800,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null,
+    "electricrange": 205
+  },
+  {
+    "id": 1786857562058,
+    "brand": "东风DengFeng",
+    "model": "L7 518KM",
+    "year": 2026,
+    "regdate": "2026-03-16",
+    "mfgdate": "2026-01",
+    "price": 12700,
+    "currency": "USD",
+    "mileage": 12000,
+    "transmission": "at",
+    "fuel": "electric",
+    "type": "suv",
+    "color": "白色黑色",
+    "engine": "",
+    "power": "120",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786857562058/0.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786857562058/1.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786857562058/2.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786857562058/3.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786857378373-23xpk4.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786857562058/5.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786857562058/6.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786857562058/7.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786857562058/8.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786857562058/9.jpg"
+    ],
+    "description": "1. Full‑electric SUV with a range of 518 km\n\n2. Very new car, registered in March 2026\n\n3. Low mileage of only 13,000 km\n\n4. Clean white exterior and black interior",
+    "listedat": "2026-08-16",
+    "featured": false,
+    "created_at": "2026-08-16T05:19:25.944867+00:00",
+    "length": 4670,
+    "width": 1900,
+    "height": 1625,
+    "wheelbase": 2775,
+    "curbweight": 1860,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null,
+    "electricrange": 518
+  },
+  {
+    "id": 1786883253049,
+    "brand": "Jaguar",
+    "model": "XEL",
+    "year": 2021,
+    "regdate": "2021-02-08",
+    "mfgdate": "2020-12",
+    "price": 14652,
+    "currency": "USD",
+    "mileage": 62000,
+    "transmission": "at",
+    "fuel": "petrol",
+    "type": "sedan",
+    "color": "白色",
+    "engine": "2.0",
+    "power": "",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786882893236-lzrjv0.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786882893236-leadaj.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786882893236-njkskb.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786882893237-8rig3d.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786882893237-wibcql.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786882893237-608n9p.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786882893237-i5x87d.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786882893251-ezhx0d.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786882893252-peyit1.jpg"
+    ],
+    "description": "• 2021 Jaguar XEL, 2.0 petrol, 62,000 km mileage\n\n• Rear‑wheel‑drive luxury sports sedan, 2.0T turbo engine with 8‑speed automatic transmission, strong power and precise handling\n\n• Classic British sporty styling, premium interior with leather seats, full digital instrument cluster and central touch screen\n\n• Solid chassis with excellent driving comfort, premium brand with great value for money",
+    "listedat": "2026-08-16",
+    "featured": false,
+    "created_at": "2026-08-16T12:27:34.564147+00:00",
+    "length": 4778,
+    "width": 1850,
+    "height": 1429,
+    "wheelbase": null,
+    "curbweight": 1730,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null,
+    "electricrange": null
+  },
+  {
+    "id": 1786884952760,
+    "brand": "Li Auto",
+    "model": "L8",
+    "year": 2025,
+    "regdate": "2025-04-16",
+    "mfgdate": "2024-03",
+    "price": 37045,
+    "currency": "USD",
+    "mileage": 47000,
+    "transmission": "at",
+    "fuel": "plugin_hybrid",
+    "type": "suv",
+    "color": "绿色",
+    "engine": "1.5L Turbo ER",
+    "power": "330kW",
+    "drivetrain": "AWD",
+    "seats": 6,
+    "doors": 5,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884714273-9ga285.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884714273-ss00a6.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884714274-qimsl8.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884714274-s75yse.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884714274-o7ooiw.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884714274-80tajz.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884714280-c4vp0m.jpg"
+    ],
+    "description": "• 2025 Li Auto L8, range‑extended electric, 47,000 km mileage\n\n• Mid‑large family SUV with range‑extender system. Runs on electric power and uses petrol for long trips, no range anxiety, smooth and quiet driving\n\n• Spacious six‑seat cabin with premium comfortable seats, multiple large screens and smart infotainment system\n\n• Comfort‑tuned chassis, full set of safety features and intelligent driving assists. Excellent vehicle for family travel with great value.",
+    "listedat": "2026-08-16",
+    "featured": false,
+    "created_at": "2026-08-16T12:55:55.250473+00:00",
+    "length": 5080,
+    "width": 1995,
+    "height": 1800,
+    "wheelbase": 3005,
+    "curbweight": 2520,
+    "fueltank": 65,
+    "trunkcapacity": 313,
+    "pricemax": null,
+    "electricrange": null
+  },
+  {
+    "id": 1786885308864,
+    "brand": "NIO",
+    "model": "ET5T",
+    "year": 2024,
+    "regdate": "2024-12-18",
+    "mfgdate": "2024-02",
+    "price": 20300,
+    "currency": "USD",
+    "mileage": 38000,
+    "transmission": "at",
+    "fuel": "electric",
+    "type": "suv",
+    "color": "黑色",
+    "engine": "",
+    "power": "",
+    "drivetrain": "4WD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884978571-1u5iyx.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884978572-uumunk.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884978572-69a0hp.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884978572-d98bbp.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884978572-61lu25.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884978573-pmhzh2.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884978594-ne8ub5.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884978594-jm2694.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786884978594-0ookjf.jpg"
+    ],
+    "description": "• 2024 NIO ET5T, fully electric, 38,000 km mileage\n\n• Electric shooting‑brake wagon with dual‑motor four‑wheel drive, strong acceleration. Five‑link suspension with CDC damping control delivers great handling and ride comfort\n\n• Large wagon‑style cargo space, premium interior with ventilated, heated and massaging seats, central touch screen and smart voice control\n\n• Equipped with LiDAR‑based intelligent driving assistance, rich tech features. Ideal for family long‑distance travel with attractive styling and good value.",
+    "listedat": "2026-08-16",
+    "featured": false,
+    "created_at": "2026-08-16T13:01:50.688058+00:00",
+    "length": 4790,
+    "width": 1960,
+    "height": 1499,
+    "wheelbase": 2888,
+    "curbweight": null,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null,
+    "electricrange": null
+  },
+  {
+    "id": 1786764428463,
+    "brand": "BYD",
+    "model": "夏 180KM卓越型",
+    "year": 2025,
+    "regdate": "2025-02-15",
+    "mfgdate": "2025-01",
+    "price": 34000,
+    "currency": "USD",
+    "mileage": 6000,
+    "transmission": "at",
+    "fuel": "plugin_hybrid",
+    "type": "suv",
+    "color": "黑色｜白色",
+    "engine": "1.5T",
+    "power": "200",
+    "drivetrain": "AWD",
+    "seats": 7,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786763992516-btjfic.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786763992319-wqwcvg.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786763992608-6x134q.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786763992333-m5bngq.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786763992334-h6jzmb.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786763992334-uj8pdc.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786763992335-pyfliz.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786763992447-jp2c4c.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786763992448-wijzhb.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786763992608-eg1f9o.jpg"
+    ],
+    "description": "BYD Xia DM‑i, 2025, 180km Excellence Version, Automatic\nRegistration Date: 07 February 2025\nMileage: 6,000 km\nTransmission: Automatic\nExterior: Black / Interior: White\nEnergy: Plug‑in Hybrid (PHEV)\nBattery capacity: 36.60 kWh\nPure‑electric range: 180 km\nTotal power output: 200 kW\nBody type: MPV\n\n1. Top‑end Excellence trim, fully‑loaded with all factory premium features.\n\n2. Nearly‑new condition, only 6,000 km driven, very little wear.\n\n3. Classic black exterior matched with white interior, ideal for business use.\n\n4. Spacious MPV cabin, perfect for family trips and business receptions.\n\n5. Reliable BYD hybrid system with low fuel consumption.\n\n6. Powerful 200 kW output for smooth and comfortable driving.\n\n7. Widely‑popular Chinese model, spare‑parts supply is easy to get.\n",
+    "listedat": "2026-08-15",
+    "featured": false,
+    "created_at": "2026-08-15T03:27:10.243781+00:00",
+    "length": 5145,
+    "width": 1970,
+    "height": 1805,
+    "wheelbase": 3045,
+    "curbweight": 2650,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null,
+    "electricrange": 180
+  },
+  {
+    "id": 1786718318521,
+    "brand": "Aion",
+    "model": "AION S",
+    "year": 2025,
+    "regdate": "2025-06-25",
+    "mfgdate": "2025-05",
+    "price": 8000,
+    "currency": "USD",
+    "mileage": 15000,
+    "transmission": "at",
+    "fuel": "electric",
+    "type": "sedan",
+    "color": "金色｜灰色",
+    "engine": "",
+    "power": "100kW",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786717986760-230qwr.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786717986761-bpin0v.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786717986869-uj42ct.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786717986870-66xo1i.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786717986870-32slfp.jpg"
+    ],
+    "description": "1. Very‑new condition, registered in June 2025 with low mileage of only 13,000 km and minimal wear.\n\n2. Long pure‑electric driving range of 480 km, ideal for daily commutes and medium‑distance trips.\n\n3. Large‑capacity 53 kWh battery, delivering stable power output and dependable performance.\n\n4. Well‑known popular Chinese electric sedan, easy‑to‑source spare parts and low long‑term maintenance costs.\n\n5. Elegant gold exterior matched with grey interior, spacious cabin, suitable for both family and business use.\n\n6. Automatic transmission for smooth, effortless driving experience.",
+    "listedat": "2026-08-14",
+    "featured": false,
+    "created_at": "2026-08-14T14:38:39.471194+00:00",
+    "length": 4810,
+    "width": 1880,
+    "height": 1515,
+    "wheelbase": 2750,
+    "curbweight": 1610,
+    "fueltank": null,
+    "trunkcapacity": 453,
+    "pricemax": 11000,
+    "electricrange": 580
+  },
+  {
+    "id": 1786719977583,
+    "brand": "Changan",
+    "model": "UNI-Z",
+    "year": 2025,
+    "regdate": "2025-08-14",
+    "mfgdate": "2025-07",
+    "price": 12590,
+    "currency": "USD",
+    "mileage": 13000,
+    "transmission": "at",
+    "fuel": "petrol",
+    "type": "suv",
+    "color": "绿色",
+    "engine": "1.5T",
+    "power": "138",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786719600163-uzsfgo.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786719600163-23irow.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786719600078-di87qg.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786719600081-ck8jbp.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786719600081-2qxa7e.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786719600082-cbn0hc.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786719600082-87gyh8.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786719600083-ybtsek.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786719600083-52rsbq.jpg"
+    ],
+    "description": "\n1. Very recent registration in August 2025 with low mileage of only 14,000 km.\n\n2. It is the top‑end premium version, fully equipped with factory‑installed high‑end features.\n\n3. Powerful 1.5‑turbo petrol engine, great performance on highways and long‑distance trips.\n\n4. Attractive green exterior colour, fashionable modern SUV appearance.\n\n5. Spacious interior space, comfortable for family travel.\n\n6. Well‑known popular Chinese SUV model, spare parts are easily available.\n\n7. Smooth automatic‑gear driving experience.",
+    "listedat": "2026-08-14",
+    "featured": false,
+    "created_at": "2026-08-14T15:06:19.330907+00:00",
+    "length": 4730,
+    "width": 1890,
+    "height": 1680,
+    "wheelbase": 2795,
+    "curbweight": 1500,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null,
+    "electricrange": null
+  },
+  {
     "id": 1786331312435,
     "brand": "ZEEKR",
     "model": "009 WE版",
@@ -40,7 +513,8 @@
     "curbweight": 2830,
     "fueltank": null,
     "trunkcapacity": 370,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786332040271,
@@ -92,7 +566,8 @@
     "curbweight": 2460,
     "fueltank": 90,
     "trunkcapacity": 857,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786336367941,
@@ -144,7 +619,61 @@
     "curbweight": 2501,
     "fueltank": 90,
     "trunkcapacity": 470,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
+  },
+  {
+    "id": 1786348217441,
+    "brand": "MG",
+    "model": "MG5",
+    "year": 2024,
+    "regdate": "2024-11-10",
+    "mfgdate": "2024-10",
+    "price": 9000,
+    "currency": "USD",
+    "mileage": 17000,
+    "transmission": "cvt",
+    "fuel": "petrol",
+    "type": "sedan",
+    "color": "白色｜黑色",
+    "engine": "1.5L I4",
+    "power": "87kW",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786348217441/0.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786348217441/1.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348012732-zo2krk.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348013087-crregi.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348013088-d2m07q.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348013088-9e95cu.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348013089-3zb2l0.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348013090-irn4gl.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348013090-bak2gs.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348013091-g5of05.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348013091-l8yqwv.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348013092-w790vq.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348013092-m6x9cf.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348013093-8rdk5i.jpg"
+    ],
+    "description": "Model: MG 2025 MG5 1.5TGI 300TGI Global Flagship Automatic\n\n1. Ultra-low mileage, only 17,000 km, nearly new condition\n\n2. 1.5T turbo power, strong acceleration for daily commute\n\n3. Top flagship trim, full factory configurations\n\n4. Affordable price with huge discount vs new car",
+    "listedat": "2026-08-10",
+    "featured": false,
+    "created_at": "2026-08-10T07:50:21.659372+00:00",
+    "length": 4675,
+    "width": 1842,
+    "height": 1480,
+    "wheelbase": 2680,
+    "curbweight": 1260,
+    "fueltank": 50,
+    "trunkcapacity": 512,
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786327670096,
@@ -190,7 +719,8 @@
     "curbweight": 1790,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786330723443,
@@ -237,7 +767,8 @@
     "curbweight": 2260,
     "fueltank": null,
     "trunkcapacity": 410,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786331120084,
@@ -285,7 +816,8 @@
     "curbweight": 1875,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786331600877,
@@ -334,7 +866,8 @@
     "curbweight": 2830,
     "fueltank": null,
     "trunkcapacity": 370,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786332451391,
@@ -384,7 +917,155 @@
     "curbweight": 1588,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
+  },
+  {
+    "id": 1786348324637,
+    "brand": "深蓝",
+    "model": "S05",
+    "year": 2026,
+    "regdate": "2025-08-10",
+    "mfgdate": "2026-08",
+    "price": 17488,
+    "currency": "USD",
+    "mileage": 5000,
+    "transmission": "at",
+    "fuel": "electric",
+    "type": "suv",
+    "color": "灰色",
+    "engine": "",
+    "power": "",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348051763-gnd11d.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348051764-55ki7j.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348051765-pzyj37.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348051766-d5ijt3.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348051767-1wqibh.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348051768-erieyd.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348051768-kv97ts.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348051769-zqfybb.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348051770-xxj0mq.jpg"
+    ],
+    "description": "\n• Basic info: 2026 Deepal S05, all‑electric, 5000 km mileage, nearly‑new condition\n• Power & Chassis: Rear‑wheel‑drive EV platform, 3C fast charging, FSD+HRS adaptive suspension, brisk acceleration and comfortable ride\n• Space & Interior: Spacious cabin with long wheelbase, 15.4‑inch 2.5K rotatable central screen, well‑equipped premium interior￼￼￼\n• Safety & Tech: Tianshu intelligent driving system, 540‑degree transparent chassis, auto parking, multiple active safety features￼￼￼\n• Key selling points: Low‑mileage nearly‑new electric SUV, fast charging, rich smart features, ideal for family urban commuting",
+    "listedat": "2026-08-10",
+    "featured": false,
+    "created_at": "2026-08-10T07:52:06.636802+00:00",
+    "length": 4620,
+    "width": 1900,
+    "height": 1600,
+    "wheelbase": 2880,
+    "curbweight": 1856,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null,
+    "electricrange": null
+  },
+  {
+    "id": 1786348432925,
+    "brand": "MG",
+    "model": "MG5",
+    "year": 2024,
+    "regdate": "2024-09-10",
+    "mfgdate": "2024-08",
+    "price": 6990,
+    "currency": "USD",
+    "mileage": 3000,
+    "transmission": "cvt",
+    "fuel": "petrol",
+    "type": "sedan",
+    "color": "紫色｜黑色",
+    "engine": "1.5L I4",
+    "power": "87kW",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348299664-zfuvh8.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348299665-kdt11i.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348299665-mtczjg.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348299980-ny5dsb.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348299981-7togqc.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348299982-hevdxq.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348299982-6c1dyr.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348299983-l1t5kj.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348299983-99k3cp.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348299984-wayg24.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348299984-smvvt4.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348299985-hsod6x.jpg"
+    ],
+    "description": "Model: MG 2025 MG5 1.5TGI 300TGI Global Flagship Automatic\n\n1. Ultra-low mileage of only 3,000 km, nearly brand new\n\n2. 1.5T turbocharged engine, strong power for daily use\n\n3. Top flagship trim level with full factory configurations\n\n4. Extremely cost-effective, huge discount off original new car price",
+    "listedat": "2026-08-10",
+    "featured": false,
+    "created_at": "2026-08-10T07:53:54.077419+00:00",
+    "length": 4675,
+    "width": 1842,
+    "height": 1480,
+    "wheelbase": 2680,
+    "curbweight": 1260,
+    "fueltank": 50,
+    "trunkcapacity": 512,
+    "pricemax": null,
+    "electricrange": null
+  },
+  {
+    "id": 1786348632469,
+    "brand": "小米",
+    "model": "YU7",
+    "year": 2025,
+    "regdate": "2025-08-10",
+    "mfgdate": "2025-06",
+    "price": 39900,
+    "currency": "USD",
+    "mileage": 20400,
+    "transmission": "at",
+    "fuel": "electric",
+    "type": "suv",
+    "color": "白色",
+    "engine": "",
+    "power": "",
+    "drivetrain": "AWD",
+    "seats": 5,
+    "doors": 4,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348349705-llns96.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348349706-yw84cl.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348349707-qfpu37.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348349791-6ufztc.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348349793-6ykzie.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348349794-yog80d.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348349794-fx6vxt.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348349795-wl3ly0.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1786348349796-zf0622.jpg"
+    ],
+    "description": "\n• Basic info: 2025 Xiaomi YU7, all‑electric, 20500 km mileage, good condition\n• Power & Chassis: 800V high‑voltage EV platform with fast charging. Double‑wishbone front and multi‑link rear suspension for smooth ride￼￼￼\n• Space & Interior: Mid‑size coupe‑style SUV with generous wheelbase and roomy cabin. Sky panoramic display + 3K central screen, HyperOS smart cockpit, frameless doors, strong tech atmosphere\n• Safety & Tech: Standard laser‑radar‑based advanced driving‑assist system, full active‑safety suite, high‑strength steel‑aluminum mixed body for great protection\n• Key selling points: High‑performance Chinese EV SUV, solid driving range, rich smart features, balances family‑use and sport performance",
+    "listedat": "2026-08-10",
+    "featured": false,
+    "created_at": "2026-08-10T07:57:13.977263+00:00",
+    "length": 4999,
+    "width": 1996,
+    "height": 1608,
+    "wheelbase": 3000,
+    "curbweight": 2315,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786276823519,
@@ -431,7 +1112,8 @@
     "curbweight": 2135,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786291526534,
@@ -478,7 +1160,8 @@
     "curbweight": 2095,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786292227485,
@@ -525,7 +1208,8 @@
     "curbweight": 2065,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786178331109,
@@ -571,7 +1255,8 @@
     "curbweight": 2088,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786178768026,
@@ -618,7 +1303,8 @@
     "curbweight": 1415,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786179233153,
@@ -664,7 +1350,8 @@
     "curbweight": 2220,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786091687879,
@@ -689,7 +1376,17 @@
     "location": "中国河南",
     "status": "available",
     "image": null,
-    "images": [],
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786091687879/0.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786091687879/1.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786091687879/2.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786091687879/3.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786091687879/4.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786091687879/5.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786091687879/6.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786091687879/7.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1786091687879/8.jpg"
+    ],
     "description": "Flagship model with 215km EV range,\npower equipped with 1.5T engine plus ECVT automatic transmission,\nbattery capacity 31.7kWh,\nCLTC pure electric range 215km,\ntotal comprehensive power 165kW;\n\nNational VI emission standard,\nregistered July 2025,\nmileage 15,000 km,\nno repainting all over the car.\n\nExtremely high-end configurations:\nadaptive cruise control,\ndriving assistance system,\nseat ventilation & massage function,\nadjustable air suspension,\nsuspension firmness adjustment and other premium features.",
     "listedat": "2026-08-07",
     "featured": false,
@@ -701,7 +1398,8 @@
     "curbweight": 1935,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786082924558,
@@ -748,7 +1446,8 @@
     "curbweight": 2320,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786083365756,
@@ -792,7 +1491,8 @@
     "curbweight": 2310,
     "fueltank": null,
     "trunkcapacity": 600,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786083814260,
@@ -839,7 +1539,8 @@
     "curbweight": 1260,
     "fueltank": 50,
     "trunkcapacity": 512,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786085139692,
@@ -885,7 +1586,8 @@
     "curbweight": 2535,
     "fueltank": 80,
     "trunkcapacity": 310,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786086099269,
@@ -932,7 +1634,8 @@
     "curbweight": 2890,
     "fueltank": 83,
     "trunkcapacity": 450,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786086556515,
@@ -979,7 +1682,8 @@
     "curbweight": 2170,
     "fueltank": null,
     "trunkcapacity": 375,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786087645681,
@@ -1026,7 +1730,8 @@
     "curbweight": 2010,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786088100439,
@@ -1073,7 +1778,8 @@
     "curbweight": 1980,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786090940186,
@@ -1123,7 +1829,8 @@
     "curbweight": 1720,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786092833957,
@@ -1170,7 +1877,8 @@
     "curbweight": 1518,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786093612832,
@@ -1216,7 +1924,8 @@
     "curbweight": 2300,
     "fueltank": null,
     "trunkcapacity": 660,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786012250591,
@@ -1266,7 +1975,8 @@
     "curbweight": 2460,
     "fueltank": 65,
     "trunkcapacity": 540,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1786008814523,
@@ -1277,7 +1987,7 @@
     "mfgdate": "2025-08",
     "price": 29200,
     "currency": "USD",
-    "mileage": 11000,
+    "mileage": 5000,
     "transmission": "at",
     "fuel": "plugin_hybrid",
     "type": "suv",
@@ -1313,7 +2023,8 @@
     "curbweight": 2530,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": 210
   },
   {
     "id": 1786009332803,
@@ -1363,7 +2074,8 @@
     "curbweight": 1610,
     "fueltank": null,
     "trunkcapacity": 453,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785911758269,
@@ -1410,7 +2122,8 @@
     "curbweight": 1770,
     "fueltank": 60,
     "trunkcapacity": 574,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785912097225,
@@ -1461,54 +2174,8 @@
     "curbweight": 1770,
     "fueltank": 60,
     "trunkcapacity": 574,
-    "pricemax": null
-  },
-  {
-    "id": 1785922722577,
-    "brand": "Toyota",
-    "model": "亚洲龙",
-    "year": 2019,
-    "regdate": "2019-10-08",
-    "mfgdate": "2019-03",
-    "price": 13300,
-    "currency": "USD",
-    "mileage": 110000,
-    "transmission": "at",
-    "fuel": "petrol",
-    "type": "sedan",
-    "color": "白色",
-    "engine": "2.5",
-    "power": "154",
-    "drivetrain": "AWD",
-    "seats": 5,
-    "doors": 5,
-    "vin": "",
-    "location": "中国河南",
-    "status": "available",
-    "image": null,
-    "images": [
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785922194165-awb5ep.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785922194165-tgwg1w.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785922194165-arpxzq.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785922194166-23pi92.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785922194166-kxfmsx.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785922194166-gi1cij.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785922194198-bhmsqp.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785922194238-w3xti4.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785922194239-qghtng.jpg"
-    ],
-    "description": "• Basic Info: 2019 Toyota Avalon, 2.5L gasoline sedan, mileage 110,000 km, good used condition\n\n• Power & Driving\nReliable 2.5‑liter naturally‑aspirated gasoline engine, stable power output, low failure rate, fuel‑efficient. Comfortable suspension tuning, smooth ride for highway and city driving.\n\n• Interior & Convenience\nLarge‑size sedan with generous rear legroom. Comfortable leather seats, central control screen, reverse camera, Bluetooth, dual‑zone automatic air‑conditioning.\n\n• Safety & Highlights\nComplete active & passive safety configurations, solid build quality. Durable, low maintenance cost, great value for family and long‑distance travel.",
-    "listedat": "2026-08-05",
-    "featured": false,
-    "created_at": "2026-08-05T09:38:44.544539+00:00",
-    "length": 4975,
-    "width": 1850,
-    "height": 1450,
-    "wheelbase": 2870,
-    "curbweight": 1630,
-    "fueltank": null,
-    "trunkcapacity": null,
-    "pricemax": 14900
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785923242161,
@@ -1555,7 +2222,8 @@
     "curbweight": 1395,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": 11200
+    "pricemax": 11200,
+    "electricrange": null
   },
   {
     "id": 1785926748137,
@@ -1599,7 +2267,8 @@
     "curbweight": 2650,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": 31100
+    "pricemax": 31100,
+    "electricrange": null
   },
   {
     "id": 1785923860866,
@@ -1643,7 +2312,8 @@
     "curbweight": 2080,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": 18600
+    "pricemax": 18600,
+    "electricrange": null
   },
   {
     "id": 1785926123005,
@@ -1690,7 +2360,8 @@
     "curbweight": 1760,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": 18800
+    "pricemax": 18800,
+    "electricrange": null
   },
   {
     "id": 1785720261286,
@@ -1734,7 +2405,8 @@
     "curbweight": 2080,
     "fueltank": null,
     "trunkcapacity": 450,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785721172721,
@@ -1782,7 +2454,8 @@
     "curbweight": 1660,
     "fueltank": null,
     "trunkcapacity": 450,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785721706214,
@@ -1828,7 +2501,8 @@
     "curbweight": 2790,
     "fueltank": null,
     "trunkcapacity": 450,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785722596454,
@@ -1872,7 +2546,8 @@
     "curbweight": 1620,
     "fueltank": 58,
     "trunkcapacity": 620,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785739400439,
@@ -1918,7 +2593,8 @@
     "curbweight": 2882,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": 34750
+    "pricemax": 34750,
+    "electricrange": null
   },
   {
     "id": 1785721247434,
@@ -1965,7 +2641,8 @@
     "curbweight": 1325,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": 5410
+    "pricemax": 5410,
+    "electricrange": null
   },
   {
     "id": 1785722253920,
@@ -1991,6 +2668,7 @@
     "status": "available",
     "image": null,
     "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1785722253920/0.jpg",
       "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785721857449-mxui3e.jpg",
       "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785721857450-ninjfw.jpg",
       "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785721857450-o8gxy2.jpg",
@@ -2001,7 +2679,9 @@
       "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785721857453-jay3i1.jpg",
       "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785721857454-glpo6j.jpg",
       "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785721857455-ac1k92.jpg",
-      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785721857456-rydgib.jpg"
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1785722253920/11.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785721857456-rydgib.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1785722253920/13.jpg"
     ],
     "description": "1. Extremely low wear condition. Only 2,500 km driven since registration, all mechanical parts stay in excellent working condition as a low-mileage nearly-new car.\n\n2. Equipped with 2.0T Blue Whale turbocharged engine with abundant power reserve, delivering strong acceleration performance for highway driving and light off-road travel.\n\n3. Compact SUV layout brings outstanding space practicability, adaptable to city commuting, long-distance road trips and mild off-road scenarios.",
     "listedat": "2026-08-03",
@@ -2014,7 +2694,8 @@
     "curbweight": 1620,
     "fueltank": 58,
     "trunkcapacity": 620,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785744197982,
@@ -2059,7 +2740,8 @@
     "curbweight": 2050,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": 26162
+    "pricemax": 26162,
+    "electricrange": null
   },
   {
     "id": 1785745075534,
@@ -2106,7 +2788,8 @@
     "curbweight": 2715,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": 44690
+    "pricemax": 44690,
+    "electricrange": null
   },
   {
     "id": 1785739130123,
@@ -2153,7 +2836,8 @@
     "curbweight": 2170,
     "fueltank": null,
     "trunkcapacity": 375,
-    "pricemax": 23000
+    "pricemax": 23000,
+    "electricrange": null
   },
   {
     "id": 1785743755875,
@@ -2198,7 +2882,8 @@
     "curbweight": 1965,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": 39302
+    "pricemax": 39302,
+    "electricrange": null
   },
   {
     "id": 1785747456027,
@@ -2245,7 +2930,8 @@
     "curbweight": 1650,
     "fueltank": 60,
     "trunkcapacity": 560,
-    "pricemax": 8230
+    "pricemax": 8230,
+    "electricrange": null
   },
   {
     "id": 1785301049806,
@@ -2289,7 +2975,8 @@
     "curbweight": 2385,
     "fueltank": null,
     "trunkcapacity": 271,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785301688253,
@@ -2336,7 +3023,8 @@
     "curbweight": 1464,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785204122833,
@@ -2380,7 +3068,8 @@
     "curbweight": 1845,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785206990940,
@@ -2427,7 +3116,8 @@
     "curbweight": 1760,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785209659804,
@@ -2474,7 +3164,8 @@
     "curbweight": 2000,
     "fueltank": 80,
     "trunkcapacity": 0,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785210222235,
@@ -2521,7 +3212,8 @@
     "curbweight": 2610,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785207388021,
@@ -2568,7 +3260,8 @@
     "curbweight": 2116,
     "fueltank": null,
     "trunkcapacity": 543,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785207933415,
@@ -2594,6 +3287,7 @@
     "status": "available",
     "image": null,
     "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1785207933415/0.jpg",
       "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207820969-xaausk.jpg",
       "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207820970-vjphe1.jpg",
       "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/new/1785207820970-kjv62i.jpg",
@@ -2610,7 +3304,8 @@
     "curbweight": 2116,
     "fueltank": null,
     "trunkcapacity": 543,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785209001884,
@@ -2657,7 +3352,8 @@
     "curbweight": 2220,
     "fueltank": 53,
     "trunkcapacity": 235,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785139256479,
@@ -2703,7 +3399,8 @@
     "curbweight": 2050,
     "fueltank": 60,
     "trunkcapacity": 517,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785116744997,
@@ -2747,7 +3444,8 @@
     "curbweight": 1540,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785138352646,
@@ -2793,7 +3491,8 @@
     "curbweight": 2194,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785138736593,
@@ -2840,44 +3539,8 @@
     "curbweight": 1588,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
-  },
-  {
-    "id": 1785037572578,
-    "brand": "Li Auto",
-    "model": "i8",
-    "year": 2026,
-    "regdate": "2026-06-21",
-    "mfgdate": "2025-08",
-    "price": 45280,
-    "currency": "USD",
-    "mileage": 300,
-    "transmission": "at",
-    "fuel": "electric",
-    "type": "suv",
-    "color": "黑色",
-    "engine": "",
-    "power": "",
-    "drivetrain": "4WD",
-    "seats": 6,
-    "doors": 5,
-    "vin": "",
-    "location": "中国河南",
-    "status": "available",
-    "image": null,
-    "images": [],
-    "description": "• Basic Info: 2025 Li Auto i8, fully electric medium-large 6-seater SUV, dual-motor all-wheel drive, mileage only 300 km, brand new condition.\n\n• Power & Charging\nBuilt on advanced 800V high-voltage platform with 5C ultra-fast charging technology. Long CLTC driving range. Fast charging enables rapid energy replenishment, quiet and smooth pure electric driving experience, low daily operation cost. 0-100km/h acceleration is powerful.\n\n• Interior & Comfort Configuration\n2+2+2 six-seat layout with ultra-spacious cabin. Independent seats for all three rows. Equipped with dual-chamber air suspension & CDC shock absorber for premium ride comfort. Multi-screen intelligent cockpit, full voice control, premium audio system, 220V external power supply function.\n\n• Intelligence & Safety\nComes standard with Li AD Max intelligent driving system, equipped with lidar. Supports full-scene assisted driving. High-strength vehicle body structure, comprehensive active and passive safety configurations to guarantee travel safety.\n\n• Selling Points\nUltra-low mileage nearly-new pure electric six-seat family SUV, fully loaded factory configuration. Ideal for family trips. Complete documents available for export shipment overseas.",
-    "listedat": "2026-07-26",
-    "featured": false,
-    "created_at": "2026-07-26T03:46:15.818171+00:00",
-    "length": 5085,
-    "width": 1960,
-    "height": 1740,
-    "wheelbase": 3050,
-    "curbweight": 2610,
-    "fueltank": null,
-    "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1785047751334,
@@ -2924,7 +3587,52 @@
     "curbweight": 1750,
     "fueltank": null,
     "trunkcapacity": 466,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
+  },
+  {
+    "id": 1785037572578,
+    "brand": "Li Auto",
+    "model": "i8",
+    "year": 2026,
+    "regdate": "2026-06-21",
+    "mfgdate": "2025-08",
+    "price": 45280,
+    "currency": "USD",
+    "mileage": 300,
+    "transmission": "at",
+    "fuel": "electric",
+    "type": "suv",
+    "color": "黑色",
+    "engine": "",
+    "power": "",
+    "drivetrain": "4WD",
+    "seats": 6,
+    "doors": 5,
+    "vin": "",
+    "location": "中国河南",
+    "status": "available",
+    "image": null,
+    "images": [
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1785037572578/0.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1785037572578/1.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1785037572578/2.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1785037572578/3.jpg",
+      "https://vzzsigpwoxwhwdcdzqfg.supabase.co/storage/v1/object/public/car-images/1785037572578/4.jpg"
+    ],
+    "description": "• Basic Info: 2025 Li Auto i8, fully electric medium-large 6-seater SUV, dual-motor all-wheel drive, mileage only 300 km, brand new condition.\n\n• Power & Charging\nBuilt on advanced 800V high-voltage platform with 5C ultra-fast charging technology. Long CLTC driving range. Fast charging enables rapid energy replenishment, quiet and smooth pure electric driving experience, low daily operation cost. 0-100km/h acceleration is powerful.\n\n• Interior & Comfort Configuration\n2+2+2 six-seat layout with ultra-spacious cabin. Independent seats for all three rows. Equipped with dual-chamber air suspension & CDC shock absorber for premium ride comfort. Multi-screen intelligent cockpit, full voice control, premium audio system, 220V external power supply function.\n\n• Intelligence & Safety\nComes standard with Li AD Max intelligent driving system, equipped with lidar. Supports full-scene assisted driving. High-strength vehicle body structure, comprehensive active and passive safety configurations to guarantee travel safety.\n\n• Selling Points\nUltra-low mileage nearly-new pure electric six-seat family SUV, fully loaded factory configuration. Ideal for family trips. Complete documents available for export shipment overseas.",
+    "listedat": "2026-07-26",
+    "featured": false,
+    "created_at": "2026-07-26T03:46:15.818171+00:00",
+    "length": 5085,
+    "width": 1960,
+    "height": 1740,
+    "wheelbase": 3050,
+    "curbweight": 2610,
+    "fueltank": null,
+    "trunkcapacity": null,
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784869338159,
@@ -2971,7 +3679,8 @@
     "curbweight": 1705,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784868181758,
@@ -3018,7 +3727,8 @@
     "curbweight": 2642,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784770038922,
@@ -3065,7 +3775,8 @@
     "curbweight": 1110,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784773439546,
@@ -3109,7 +3820,8 @@
     "curbweight": 1575,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784770670262,
@@ -3156,7 +3868,8 @@
     "curbweight": 1720,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784605821101,
@@ -3203,7 +3916,8 @@
     "curbweight": 1120,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784609801409,
@@ -3246,7 +3960,8 @@
     "curbweight": 1953,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784521198108,
@@ -3293,7 +4008,8 @@
     "curbweight": 2665,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784524902949,
@@ -3340,7 +4056,8 @@
     "curbweight": 1640,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784441670914,
@@ -3387,7 +4104,8 @@
     "curbweight": 3130,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784421943667,
@@ -3434,7 +4152,8 @@
     "curbweight": 1960,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784437771523,
@@ -3481,7 +4200,8 @@
     "curbweight": 2830,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784467490265,
@@ -3524,7 +4244,8 @@
     "curbweight": 2750,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784419672987,
@@ -3569,7 +4290,8 @@
     "curbweight": 2335,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784375477749,
@@ -3616,7 +4338,8 @@
     "curbweight": 2570,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784385078098,
@@ -3663,7 +4386,8 @@
     "curbweight": 2810,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784165483397,
@@ -3706,7 +4430,8 @@
     "curbweight": 2280,
     "fueltank": 0,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784166010276,
@@ -3753,7 +4478,8 @@
     "curbweight": 2080,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784166987327,
@@ -3797,7 +4523,8 @@
     "curbweight": 1675,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784172830374,
@@ -3853,7 +4580,8 @@
     "curbweight": 2170,
     "fueltank": 0,
     "trunkcapacity": 375,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784173806228,
@@ -3900,7 +4628,8 @@
     "curbweight": 1860,
     "fueltank": 0,
     "trunkcapacity": 362,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784174364841,
@@ -3946,7 +4675,8 @@
     "curbweight": 1840,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784164873604,
@@ -3993,7 +4723,8 @@
     "curbweight": 2280,
     "fueltank": 0,
     "trunkcapacity": 5,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784172457884,
@@ -4046,7 +4777,8 @@
     "curbweight": 1705,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784079266674,
@@ -4093,7 +4825,8 @@
     "curbweight": 1430,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784081082484,
@@ -4140,7 +4873,8 @@
     "curbweight": 1840,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784083083105,
@@ -4187,7 +4921,8 @@
     "curbweight": 1430,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784097239367,
@@ -4234,7 +4969,8 @@
     "curbweight": 1755,
     "fueltank": 64,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784098540103,
@@ -4281,7 +5017,8 @@
     "curbweight": 2316,
     "fueltank": 0,
     "trunkcapacity": 579,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784079740946,
@@ -4328,7 +5065,8 @@
     "curbweight": 1480,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784080684306,
@@ -4375,7 +5113,8 @@
     "curbweight": 1551,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784101312637,
@@ -4422,7 +5161,8 @@
     "curbweight": 2292,
     "fueltank": 0,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784015003200,
@@ -4469,7 +5209,8 @@
     "curbweight": 2065,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784016018400,
@@ -4516,7 +5257,8 @@
     "curbweight": 1295,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784038650593,
@@ -4562,7 +5304,8 @@
     "curbweight": 2890,
     "fueltank": 83,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784039057425,
@@ -4609,7 +5352,8 @@
     "curbweight": 2170,
     "fueltank": null,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   },
   {
     "id": 1784040276412,
@@ -4656,6 +5400,7 @@
     "curbweight": 1830,
     "fueltank": 60,
     "trunkcapacity": null,
-    "pricemax": null
+    "pricemax": null,
+    "electricrange": null
   }
 ]
